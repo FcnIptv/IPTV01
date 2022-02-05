@@ -57,111 +57,137 @@ http://str24.l9574.com:80/515.stream/index.m3u8
 http://str24.l9574.com:80/516.stream/index.m3u8
 
 
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/QD5t6Bn.png",Star Bharat HD
-http://181.78.22.214:8000/play/a010
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://i.imgur.com/TBwHZ9k.jpg",STAR PLUS
-http://181.78.22.214:8000/play/a00m
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://i.imgur.com/xN5TNtJ.png",ZEE TV HD
-http://181.78.22.214:8000/play/a00n
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://i.imgur.com/HcUrbQp.jpg",SONY HD
-http://181.78.22.214:8000/play/a00q
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://i.imgur.com/wiVpMl4.png",COLORS HD
-http://181.78.22.214:8000/play/a00o
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/KpXPkGd.png",&TV HD
-http://181.78.22.214:8000/play/a01u
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/CJc3ZU3.png",Sony Sab HD
-http://181.78.22.214:8000/play/a01v
+#EXTINF:-1 tvg-logo="https://imgur.com/QD5t6Bn.png" group-title="FCN-BKUP", Star Bharat HD
+http://103.153.39.36:8000/play/a010
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="FCN-BKUP",STAR PLUS
+http://103.153.39.36:8000/play/a00m
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="FCN-BKUP",ZEE TV HD
+http://103.153.39.36:8000/play/a00n
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="FCN-BKUP",SONY HD
+http://103.153.39.36:8000/play/a00q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="FCN-BKUP",COLORS HD
+http://103.153.39.36:8000/play/a00o
+#EXTINF:-1 tvg-logo="https://imgur.com/KpXPkGd.png" group-title="FCN-BKUP", &TV HD
+http://103.153.39.36:8000/play/a01u
+#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="FCN-BKUP", Sony Sab HD
+http://103.153.39.36:8000/play/a01v
 
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/FepIOFs.png",Sony Max HD
-http://181.78.22.214:8000/play/a00h
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/56bLnJP.png",Star Gold HD
-http://181.78.22.214:8000/play/a012
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/1GuSyCr.png",&Pictures HD
-http://181.78.22.214:8000/play/a017
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/dn923Mf.png",Zee Cinema HD
-http://181.78.22.214:8000/play/a00z
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/jlWbKAv.png",Star Gold Select HD
-http://181.78.22.214:8000/play/a014
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://i.imgur.com/YvGtRg0.png",UTV HD
-http://181.78.22.214:8000/play/a01o
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
-http://181.78.22.214:8000/play/a01p
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/G0fh0PU.png",Star Gold2
-http://181.78.22.214:8000/play/a01q
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://i.imgur.com/O00Jsl9.png",Zee Bollywood
-http://181.78.22.214:8000/play/a01r
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://i.imgur.com/0piOCHd.png?1",Sony MAX2
-http://181.78.22.214:8000/play/a01s
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://imgur.com/CVDms40.png",Zee Anmol
-http://181.78.22.214:8000/play/a00s
-#EXTINF:-1 group-title="FCN-BKUP" tvg-logo="https://i.imgur.com/gkp0htr.jpg",Zee Cafe HD
-http://181.78.22.214:8000/play/a00t
+#EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="FCN-BKUP", Sony Max HD
+http://103.153.39.36:8000/play/a00h
+#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="FCN-BKUP", Star Gold HD
+http://103.153.39.36:8000/play/a012
+#EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" group-title="FCN-BKUP", &Pictures HD
+http://103.153.39.36:8000/play/a017
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="FCN-BKUP", Zee Cinema HD
+http://103.153.39.36:8000/play/a00z
+#EXTINF:-1 tvg-logo="https://imgur.com/jlWbKAv.png" group-title="FCN-BKUP", Star Gold Select HD
+http://103.153.39.36:8000/play/a014
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg0.png" group-title="FCN-BKUP", UTV HD 
+http://103.153.39.36:8000/play/a01o
+#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="FCN-BKUP", Utv Action
+http://103.153.39.36:8000/play/a01p
+#EXTINF:-1 tvg-logo="https://imgur.com/G0fh0PU.png" group-title="FCN-BKUP", Star Gold2
+http://103.153.39.36:8000/play/a01q
+#EXTINF:1 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="FCN-BKUP",Zee Bollywood
+http://103.153.39.36:8000/play/a01r
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="FCN-BKUP",Sony MAX2 
+http://103.153.39.36:8000/play/a01s
+#EXTINF:-1 tvg-logo="https://imgur.com/CVDms40.png" group-title="FCN-BKUP",Zee Anmol
+http://103.153.39.36:8000/play/a00s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="FCN-BKUP",Zee Cafe HD
+http://103.153.39.36:8000/play/a00t
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/MQ5jhMz.png",Star Sports 1 HD
-http://181.78.22.214:8000/play/a00c
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/MD0cEBL.png",Star Sports 2 HD
-http://181.78.22.214:8000/play/a00d
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/KhZPrnw.jpg",Star Sports 3HD
-http://181.78.22.214:8000/play/a00l
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/ZTxVYed.png",Star Sports Select 1 HD
-http://181.78.22.214:8000/play/a018
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/pFgUCZF.png",Star Sports Select 2 HD
-http://181.78.22.214:8000/play/a019
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/Ws3p8ld.png",Sony Six HD
-http://181.78.22.214:8000/play/a00f
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/WZbjRM3.png",Sony Ten 1 HD
-http://181.78.22.214:8000/play/a00e
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/p5DzCDr.png",Sony Ten 2 HD
-http://181.78.22.214:8000/play/a01a
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/rU424bI.png",Sony Ten 3 HD
-http://181.78.22.214:8000/play/a00k
+#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD HIN
+http://103.153.39.36:8000/play/a026
+#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
+http://103.153.39.36:8000/play/a00c
+#EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
+http://103.153.39.36:8000/play/a00d
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 3HD
+http://103.153.39.36:8000/play/a00l
+#EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
+http://103.153.39.36:8000/play/a018
+#EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
+http://103.153.39.36:8000/play/a019
 
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/SWuALmM.png",&PRIVEHD
-http://181.78.22.214:8000/play/a01d
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/8XJLEUa.png",&flix HD
-http://181.78.22.214:8000/play/a00p
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/TzWt6mV.png",COLORS INFINITY HD
-http://181.78.22.214:8000/play/a01b
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/3Gz2C49.png",MNX HD
-http://181.78.22.214:8000/play/a01h
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/mML3WAl.png",Movies Now HD
-http://181.78.22.214:8000/play/a01i
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/bjWCDBZ.jpg",ROMEDY NOW
-http://181.78.22.214:8000/play/a01j
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/uV8cQ94.png",Sony Pix HD
-http://181.78.22.214:8000/play/a016
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/ETWxMY7.png",Star Movies PREMIERE
-http://181.78.22.214:8000/play/a00a
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/XsHKNAJ.png",Star World HD
-http://181.78.22.214:8000/play/a00b
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iA4v1yN.png",MN+ HD
-http://181.78.22.214:8000/play/a00u
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iCOQK4B.png",Star Movies HD
-http://181.78.22.214:8000/play/a00v
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Jl8gccd.jpg",Star Movies Select HD
-http://181.78.22.214:8000/play/a00w
+#EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports", Sony Six HD
+http://103.153.39.36:8000/play/a00f
+#EXTINF:-1 tvg-logo="https://imgur.com/WZbjRM3.png" group-title="Sports", Sony Ten 1 HD
+http://103.153.39.36:8000/play/a00e
+#EXTINF:-1 tvg-logo="https://imgur.com/p5DzCDr.png" group-title="Sports", Sony Ten 2 HD
+http://103.153.39.36:8000/play/a01a
+#EXTINF:-1 tvg-logo="https://imgur.com/rU424bI.png" group-title="Sports", Sony Ten 3 HD
+http://103.153.39.36:8000/play/a00k
+#EXTINF:-1 ,EUROSPORT
+http://103.153.39.36:8000/play/a00r
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/0gW4AST.png",National Geographic HD
-http://181.78.22.214:8000/play/a00x
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/QOye6lA.png",Discovery HD
-http://181.78.22.214:8000/play/a00y
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/13VA7Sh.jpg",NAT GEO WILD HD
-http://181.78.22.214:8000/play/a00i
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/eCR56ku.png",Fox Life HINDI
-http://181.78.22.214:8000/play/a01t
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/ZY6bPmR.png",BBC Earth HD
-http://181.78.22.214:8000/play/a015
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/hxwvr0J.png",History HD
-http://181.78.22.214:8000/play/a013
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/9etOm0d.png",Animal Planet HD
-http://181.78.22.214:8000/play/a011
+#EXTINF:-1 tvg-logo="https://imgur.com/SWuALmM.png" group-title="English" ,&PRIVEHD
+http://103.153.39.36:8000/play/a01d
+#EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="English", &flix HD
+http://103.153.39.36:8000/play/a00p
+#EXTINF:-1 tvg-logo="https://imgur.com/TzWt6mV.png" group-title="English",COLORS INFINITY HD
+http://103.153.39.36:8000/play/a01b
+#EXTINF:-1 tvg-logo="https://imgur.com/3Gz2C49.png" group-title="English", MNX HD
+http://103.153.39.36:8000/play/a01h
+#EXTINF:-1 tvg-logo="https://imgur.com/mML3WAl.png" group-title="English", Movies Now HD
+http://103.153.39.36:8000/play/a01i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="English",ROMEDY NOW
+http://103.153.39.36:8000/play/a01j
+#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
+http://103.153.39.36:8000/play/a016
+#EXTINF:-1 tvg-logo="https://imgur.com/ETWxMY7.png" group-title="English",Star Movies PREMIERE
+http://103.153.39.36:8000/play/a00a
+#EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
+http://103.153.39.36:8000/play/a00b
+#EXTINF:-1 tvg-logo="https://imgur.com/iA4v1yN.png" group-title="English", MN+ HD
+http://103.153.39.36:8000/play/a00u
+#EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English", Star Movies HD
+http://103.153.39.36:8000/play/a00v
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="English", Star Movies Select HD
+http://103.153.39.36:8000/play/a00w
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://imgur.com/2tjaJND.png",CN SD
-http://181.78.22.214:8000/play/a01w
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://imgur.com/nYtp28i.png",Hungama
-http://181.78.22.214:8000/play/a01x
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/Qkvo1BH.png",NICK HD
-http://181.78.22.214:8000/play/a01c
+#EXTINF:-1  tvg-logo="https://imgur.com/0gW4AST.png" group-title="Documentary", National Geographic HD
+http://103.153.39.36:8000/play/a00x
+#EXTINF:-1 tvg-logo="https://imgur.com/QOye6lA.png" group-title="Documentary", Discovery HD
+http://103.153.39.36:8000/play/a00y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="Documentary",NAT GEO WILD HD
+http://103.153.39.36:8000/play/a00i
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fKwtX8h.png" group-title="Documentary",TLC HD
+http://103.153.39.36:8000/play/a027
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eCR56ku.png"group-title="Documentary",Fox Life HINDI
+http://103.153.39.36:8000/play/a01t
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZY6bPmR.png" group-title="Documentary", BBC Earth HD
+http://103.153.39.36:8000/play/a015
+#EXTINF:-1 tvg-logo="https://imgur.com/hxwvr0J.png"  group-title="Documentary", History HD
+http://103.153.39.36:8000/play/a013
+#EXTINF:-1 tvg-logo="https://imgur.com/9etOm0d.png" group-title="Documentary", Animal Planet HD
+http://103.153.39.36:8000/play/a011
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney
+http://103.153.39.36:8000/play/a020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Cartoon",SONIC SD
+http://103.153.39.36:8000/play/a021
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKSpv5k.png" group-title="Cartoon",POGO SD
+http://103.153.39.36:8000/play/a022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png"  group-title="Cartoon",NICK HD
+http://103.153.39.36:8000/play/a023
+#EXTINF: -1 tvg-logo="https://imgur.com/2tjaJND.png" group-title="Cartoon", CN SD
+http://103.153.39.36:8000/play/a01w
+#EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
+http://103.153.39.36:8000/play/a01x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg"  group-title="Cartoon",DISNEY
+http://103.153.39.36:8000/play/a01y
+#EXTINF:-1 tvg-logo="https://imgur.com/542VNXV.png" group-title="Cartoon", Nick
+http://103.153.39.36:8000/play/a01z
+#EXTINF:-1 tvg-logo="https://imgur.com/Ad5lU8Z.png" group-title="Cartoon" ,DK
+http://103.153.39.36:8000/play/a024
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png"  group-title="Cartoon",NICK HD
+http://103.153.39.36:8000/play/a01c
+
 
 
 #EXTINF:-1 group-title="MUSiC" tvg-logo="https://imgur.com/TWLVa2a.png",9XM
