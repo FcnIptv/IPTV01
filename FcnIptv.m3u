@@ -206,7 +206,16 @@ http://103.153.39.36:8000/play/a024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png"  group-title="Cartoon",NICK HD
 http://103.153.39.36:8000/play/a01c
 
-
+#EXTINF:-1 group-title="FCN-MUSIC" tvg-logo="https://imgur.com/RpXwNZM.png",ZoOM
+http://live.flixhub.net/hls/zoom.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jLD3N3b.png" group-title="FCN-MUSIC", SHOWBOX
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RB9cG6k.png" group-title="FCN-MUSIC", ILOVE
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HyID9v1.png" group-title="FCN-MUSIC", MUSIC INDIA
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.png" group-title="FCN-MUSIC", MUSIC MASTI
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 #EXTINF:-1 group-title="MUSiC" tvg-logo="https://imgur.com/TWLVa2a.png",9XM
 http://str24.l9574.com:80/522.stream/index.m3u8
