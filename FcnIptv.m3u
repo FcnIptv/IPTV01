@@ -45,6 +45,24 @@ https://somoy.appv.jagobd.com:444/somoy/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png", group-title="BD-MUSIC",14.SANGEET BANGLA
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/PW9hRDa.png",Sun Bangla
+http://103.166.253.222/hls/sunbangla.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath
+http://103.166.253.222/hls/Sony_Aath.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/cQdw1st.png",Star Jalsha HD
+http://103.166.253.222/hls/starjalsha.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/mYjXbH7.png",Zee Bangla HD
+http://103.166.253.222/hls/zeebanglahd.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/ghBUxYm.png",Colors Bangla HD
+http://103.166.253.222/hls/colorsbangla.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/jsYRd39.png",Jalsha Movies HD
+http://103.166.253.222/hls/jalshamovies.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/HYcWvd9.png",Colors Bangla Cinema
+http://103.166.253.222/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/SY46rYQ.png",Zee Bangla Cinema HD
+http://103.166.253.222/hls/zee-bangla-cinema.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", 15.Sony Aath HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
@@ -52,9 +70,9 @@ http://cablevission.ddns.net/PCPSCEDAQt/ou0mthW/857
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
 http://cablevission.ddns.net/PCPSCEDAQt/ou0mthW/856
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
-http://str24.l9574.com:80/515.stream/index.m3u8
+http://str24.l9574.com:80/615.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
-http://str24.l9574.com:80/516.stream/index.m3u8
+http://str24.l9574.com:80/616.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QD5t6Bn.png" group-title="FCN-BKUP", Star Bharat HD
