@@ -107,7 +107,7 @@ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58M39E.jpg" group-title="PK-Urdu",GEO ENT
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 
-#EXTINF:-1 group-title="IN-Hindi" tvg-logo="https://i.imgur.com/AMhvwJB.png",Star Plus HD
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/AMhvwJB.png",Star Plus HD
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/9SYqIRU.png",Zee TV HD
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
@@ -157,25 +157,23 @@ http://208.86.19.13:81/906.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
 http://208.86.19.13:81/908.stream/index.m3u8
 
-#EXTINF:-1 group-title="BD-MUSIC" tvg-logo="https://imgur.com/HG69Dgb.png",BANGLA TALKIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="BD-MUSIC",ATN MUSIC
+http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="BD-MUSIC",GAAN BANGLA
+http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="BD-MUSIC",RTV MUSIC
+https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HG69Dgb.png" group-title="BD-MUSIC",BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-#EXTINF:-1 group-title="BD-MUSIC" tvg-logo="https://i.imgur.com/klVzNhT.png",SANGEET BANGLA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BD-MUSIC",SANGEET BANGLA
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="BD BANGLA",ATN MUSIC
-http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="BD BANGLA",GAAN BANGLA
-http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="BD BANGLA",RTV MUSIC
-https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM/index.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/E4NcxwB.jpg",9X Jalwaa
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://i.imgur.com/E4NcxwB.jpg",9X Jalwaa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/HyID9v1.png",MUSIC INDIA
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://imgur.com/HyID9v1.png",MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://imgur.com/mK7h8O1.png",DilSe Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://imgur.com/GizchDO.png",Kadak Music
