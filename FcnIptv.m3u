@@ -6,7 +6,7 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="LIVE SPORTS",Star Sports
 http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="LIVE SPORTS",Star Sports 1 HD
-http://12.1.1.1:8080/live/starsports-1.m3u8
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
@@ -33,7 +33,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BD BANGLA",CHANNEL I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/lplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="BD BANGLA",DEEPTO TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="BD BANGLA",DEEPTO TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="BD BANGLA",RTV HD
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -175,6 +175,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/HyID9v1.png",MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://imgur.com/mK7h8O1.png",DilSe Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://imgur.com/GizchDO.png",Kadak Music
